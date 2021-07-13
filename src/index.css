@@ -94,3 +94,85 @@
 .job-details-logo img{
   display: block;
 }
+
+.btn{
+  
+  margin: 1rem 0 0 -0.7rem;
+ 
+ 
+}
+.btn-primary{
+  background-color: var(--primary-color);
+  font-size: 1rem;
+  color: white;
+ 
+  padding:10px;
+  outline:none;
+  border:none;
+  border-radius: 6px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+.btn-secondary{
+  border: 1px solid var(--primary-color);
+  color: var(--primary-color);
+  font-size: 1rem;
+  
+  padding:10px;
+  outline:none;
+  border-radius: 6px;
+  cursor: pointer;
+
+}
+.container{
+  background-color: grey;
+  
+  width:900px;
+  padding: 1rem;
+  
+}
+.container-company{
+  padding:1rem;
+  background-color: tomato;
+}
+/* create page */
+
+.create{
+  /* background-color: brown; */
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create h2{
+  margin-bottom: 1.8rem;
+  color : var(--primary-color);
+}
+
+.create label{
+  display: block;
+  text-align: left;
+
+}
+.create input {
+
+  width:100%;
+  display: block;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  
+  
+}
+.create button{
+  background-color: var(--primary-color);
+  font-size: 1rem;
+  color: white;
+  padding:10px;
+  outline:none;
+  border:none;
+  border-radius: 6px;
+  cursor: pointer;
+  cursor: pointer;
+  margin-top: 1.5rem;
+
+}

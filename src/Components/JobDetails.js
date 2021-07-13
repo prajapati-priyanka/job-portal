@@ -9,7 +9,7 @@ function JobDetails() {
     isPending,
   } = useFetch("http://localhost:8000/jobs/" + id);
 
-//   const [selectedGenre, setGenre] = useState("business");
+
 
   return (
     <div className="job-details">
@@ -19,23 +19,28 @@ function JobDetails() {
           <>
         <section className= "job-details-content">
         <div className="job-details-preview" >
-         
+      
          <h2>{jobs.title}</h2>
          <p> {jobs.name}</p>
-         <p style={{display:"inline"}}> {jobs.workLocation} |</p>
+         <p style={{display:"inline"}}>{jobs.workLocation} |</p>
          <p style={{display:"inline"}}> experience: {jobs.experience} years</p>
          <p> {jobs.salary}</p>
         </div>
         <div className= "job-details-logo"  >
             <img src= {jobs.logo} />
-            <button>Apply</button>
-            <button>Save</button>
+            <div className= "btn">
+            <button className="btn-primary">Apply</button>
+            <button className="btn-secondary">Save</button>
+
+            </div>
+          
 
           </div>
         
         </section>
-        <section className= "job-details-content">
-        <div className="job-details-preview" >
+        
+           <section className="container">
+           <div className="container-company" >
          
          <h2 style={{display:"inline"}}>About Company:</h2>
          <p> {jobs.companyBrief}</p>
@@ -45,8 +50,12 @@ function JobDetails() {
        
          
         </div>
-        
-        </section>
+        <div className="container-employment">
+          <h4>Employment Type:</h4>
+          <p>{jobs.employmentType}</p>
+      </div>
+      </section>
+      
         </>
       )}
     </div>

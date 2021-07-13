@@ -1,7 +1,7 @@
 import Navbar from "./Components/Navbar";
 import Home from "./Components/Home";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-// import Create from "./Create";
+import Create from "./Components/Create";
 import JobDetails from "./Components/JobDetails";
 import NotFound from "./NotFound";
 
@@ -16,9 +16,9 @@ function App() {
             <Route exact path="/">
               <Home />
             </Route>
-            {/* <Route path="/create">
+            <Route path="/create">
               <Create />
-            </Route> */}
+            </Route>
             <Route path="/jobs/:id">
               <JobDetails />
             </Route>
