@@ -1,5 +1,8 @@
 import { useParams } from "react-router-dom";
 import useFetch from "../useFetch";
+import { IoLocationOutline } from "react-icons/io5";
+import {HiOutlinePencilAlt}  from "react-icons/hi";
+import {BiRupee}  from "react-icons/bi";
 
 function JobDetails() {
   const { id } = useParams();
@@ -19,20 +22,25 @@ function JobDetails() {
             <div className="job-details-preview">
               <h2>{jobs.title}</h2>
               <p> {jobs.name}</p>
-              <p style={{ display: "inline" }}>{jobs.workLocation} |</p>
-              <p style={{ display: "inline" }}>
+              <p style={{ display: "inline" }}><IoLocationOutline />{jobs.workLocation} |</p>
+              <p style={{ display: "inline" }}> <HiOutlinePencilAlt />
                 {" "}
                 experience: {jobs.experience} years
               </p>
-              <p> {jobs.salary}</p>
+              <p> <BiRupee />{jobs.salary}</p>
             </div>
+            <div className="wrapper">
             <div className="job-details-logo">
               <img src={jobs.logo} />
-              <div className="btn">
+              
+            </div>
+            <div className="btn">
                 <button className="btn-primary">Apply</button>
                 <button className="btn-secondary">Save</button>
               </div>
+
             </div>
+            
           </section>
 
           <section className="container">
