@@ -1,75 +1,98 @@
 {
-    "jobs": [
-      {
-        "logo": "https://media-exp1.licdn.com/dms/image/C510BAQGbJciAIl3Mhg/company-logo_100_100/0/1525862345784?e=1634169600&v=beta&t=vGvXJEHveanIAgTFOA9-D7q9sFr18YMdIvzqdkD0Zq8",
-     "title": "Frontend Developer",
-      
-     "name": "SoluLab Inc ",
-     "city": "Ahemdabad",
-     "state": "Gujarat",
-     "country": "India",
+  "jobs": [
+    {
+      "logo": "https://media-exp1.licdn.com/dms/image/C510BAQGbJciAIl3Mhg/company-logo_100_100/0/1525862345784?e=1634169600&v=beta&t=vGvXJEHveanIAgTFOA9-D7q9sFr18YMdIvzqdkD0Zq8",
+      "title": "Frontend Developer",
+      "name": "SoluLab Inc ",
+      "city": "Ahemdabad",
+      "state": "Gujarat",
+      "country": "India",
       "workLocation": "Remote",
       "employmentType": "Contract",
       "companyBrief": "SoluLab is started by a former VP of Goldman Sachs and principal iOS architect of Citrix. We work on cutting edge product development utilizing Blockchain, Machine Learning, Data Science and other emerging technologies. We are a family of 150+ strong developers with offices located in the USA, Canada, Australia and India. We have fully adopted remote only culture after COVID19 and this is a full time remote position. We sponsor USA or Canada visas for right developers and promote them to work from the client's office as per project demands.",
-     "experience": "2-3",
+      "experience": "2-3",
       "salary": "Salary best in class",
-      "skillsRequired":["Strong understanding of JavaScript, its quirks, and workarounds"," Strong understanding of features and utility functions of Backbone.js","Understanding of fundamental REST API concepts", "Good understanding of the concepts behind models, collections, and views","Basic understanding of web markup, including HTML5 and CSS3"," Understanding of fundamental REST API concepts","  Familiarity with input validation techniques and approaches"," Good understanding of browser rendering behavior and performance","  Understanding of asynchronous request handling, partial page updates, and AJAX","Proficient understanding of cross-browser compatibility issues and ways to work around such issues","Familiarity with JavaScript module loaders, such as Require.js or AMD","Familiarity with front-end build tools, such as Grunt and Gulp.js"],
+      "skillsRequired": [
+        "Strong understanding of JavaScript, its quirks, and workarounds",
+        " Strong understanding of features and utility functions of Backbone.js",
+        "Understanding of fundamental REST API concepts",
+        "Good understanding of the concepts behind models, collections, and views",
+        "Basic understanding of web markup, including HTML5 and CSS3",
+        " Understanding of fundamental REST API concepts",
+        "  Familiarity with input validation techniques and approaches",
+        " Good understanding of browser rendering behavior and performance",
+        "  Understanding of asynchronous request handling, partial page updates, and AJAX",
+        "Proficient understanding of cross-browser compatibility issues and ways to work around such issues",
+        "Familiarity with JavaScript module loaders, such as Require.js or AMD",
+        "Familiarity with front-end build tools, such as Grunt and Gulp.js"
+      ],
       "id": 0
-      },
-      
-      {
-        "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEykAO7E8hS6A/company-logo_100_100/0/1625251092178?e=1634169600&v=beta&t=rHtmSGwXSGfKVpLzA5k8n8BSkndHnnxCs-5k2Snl5C8",
-     "title": "UI Developer - ReactJS",
-      
-     "name": " Wipro Limited ",
-     "city": "Bangalore",
-     "state": "Karnatka",
-     "country": "India",
+    },
+    {
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQEykAO7E8hS6A/company-logo_100_100/0/1625251092178?e=1634169600&v=beta&t=rHtmSGwXSGfKVpLzA5k8n8BSkndHnnxCs-5k2Snl5C8",
+      "title": "UI Developer - ReactJS",
+      "name": " Wipro Limited ",
+      "city": "Bangalore",
+      "state": "Karnatka",
+      "country": "India",
       "workLocation": "Bangalore",
       "employmentType": "Full-Time",
       "companyBrief": "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading global information technology, consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics, cloud, analytics and emerging technologies to help our clients adapt to the digital world and make them successful. A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corporate citizenship, we have over 190,000 dedicated employees serving clients across six continents. Together, we discover ideas and connect the dots to build a better and a bold new future.",
-     "experience": "1",
+      "experience": "1",
       "salary": "Salary best in class",
-      "skillsRequired":["Efficient in HTML5, CSS,JS, Javascript, ReactJS"," Able to design and develop the UI given a requirement.","Has good experience with optimizing page load time and working on improving the efficiency of product.", "Has good experience with REST APIs","Has some experience with Deployment tools and CI/CD pipeline (Good to have) "],
-    
-        "id": 1
-      },
-      {"logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQEQNPSCmYe6WA/company-logo_100_100/0/1612936972761?e=1634169600&v=beta&t=tErigXkrU5RyhIPXi_rrPooOUTutF0668Uxk6C-0AXc",
-       
-        "title": "React JS Developer",
-         
-        "name": "Starof",
-        "city": "Hyderabad",
-        "state": "Telangna",
-        "country": "India",
-         "workLocation": "Hyderabad",
-         "employmentType": "Full-Time",
-         "companyBrief": "Starof is established in 2019 with an objective to provide skilled manpower to various industry sectors like IT, ITES, Healthcare, BFSI and Retail. We use a hybrid model of assessment to assess the skills of candidates, thereby, optimizing the quality of candidates and reducing the time to hire for clients.At the workplace, the right combination of soft skills, character traits and career goals matter the post. We often hear recruiters asking the question, ‘is this candidate is a good fit?’ Professionals want to work on areas that excite, inspire and foster the best qualities in them. At Starof, it is our mission to help match individuals with organizations more efficiently. We turn the spotlight on candidates, and take into account the applicant’s personal attributes, and key criteria like aspirations and skills. We evaluate individuals on their strengths and match them to opportunities where they can have the most significant impact. Our hybrid assessment model combines the scale of computerized testing with the qualitative depth of human evaluation.",
-        
-         "experience": "Freshers",
-         "salary": "3.6 LPA",
-         "skillsRequired":["Assistant Manager Recruitment will manage the internal hiring for Starof"," Will interact with internal stakeholders and understand the requirements and help them to hire from various sources. ","All these requirements are for internal operations.", "AM shall be able to understand the role and articulate it to candidates.","Should be good in sourcing techniques","Excellent Communication and Presentation skills"],
-        "id": 2
-      },
-      
-      {"logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQEQNPSCmYe6WA/company-logo_100_100/0/1612936972761?e=1634169600&v=beta&t=tErigXkrU5RyhIPXi_rrPooOUTutF0668Uxk6C-0AXc",
-       
-        "title": "React JS Developer",
-         
-        "name": "Starof",
-        "city": "Hyderabad",
-        "state": "Telangna",
-        "country": "India",
-         "workLocation": "Hyderabad",
-         "employmentType": "Full-Time",
-         "companyBrief": "Starof is established in 2019 with an objective to provide skilled manpower to various industry sectors like IT, ITES, Healthcare, BFSI and Retail. We use a hybrid model of assessment to assess the skills of candidates, thereby, optimizing the quality of candidates and reducing the time to hire for clients.At the workplace, the right combination of soft skills, character traits and career goals matter the post. We often hear recruiters asking the question, ‘is this candidate is a good fit?’ Professionals want to work on areas that excite, inspire and foster the best qualities in them. At Starof, it is our mission to help match individuals with organizations more efficiently. We turn the spotlight on candidates, and take into account the applicant’s personal attributes, and key criteria like aspirations and skills. We evaluate individuals on their strengths and match them to opportunities where they can have the most significant impact. Our hybrid assessment model combines the scale of computerized testing with the qualitative depth of human evaluation.",
-        
-         "experience": "Freshers",
-         "salary": "3.6 LPA",
-         "skillsRequired":["Assistant Manager Recruitment will manage the internal hiring for Starof"," Will interact with internal stakeholders and understand the requirements and help them to hire from various sources. ","All these requirements are for internal operations.", "AM shall be able to understand the role and articulate it to candidates.","Should be good in sourcing techniques","Excellent Communication and Presentation skills"],
-        "id": 3
-      }
-
-      
-    ]
-  }
+      "skillsRequired": [
+        "Efficient in HTML5, CSS,JS, Javascript, ReactJS",
+        " Able to design and develop the UI given a requirement.",
+        "Has good experience with optimizing page load time and working on improving the efficiency of product.",
+        "Has good experience with REST APIs",
+        "Has some experience with Deployment tools and CI/CD pipeline (Good to have) "
+      ],
+      "id": 1
+    },
+    {
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQEQNPSCmYe6WA/company-logo_100_100/0/1612936972761?e=1634169600&v=beta&t=tErigXkrU5RyhIPXi_rrPooOUTutF0668Uxk6C-0AXc",
+      "title": "React JS Developer",
+      "name": "Starof",
+      "city": "Hyderabad",
+      "state": "Telangna",
+      "country": "India",
+      "workLocation": "Hyderabad",
+      "employmentType": "Full-Time",
+      "companyBrief": "Starof is established in 2019 with an objective to provide skilled manpower to various industry sectors like IT, ITES, Healthcare, BFSI and Retail. We use a hybrid model of assessment to assess the skills of candidates, thereby, optimizing the quality of candidates and reducing the time to hire for clients.At the workplace, the right combination of soft skills, character traits and career goals matter the post. We often hear recruiters asking the question, ‘is this candidate is a good fit?’ Professionals want to work on areas that excite, inspire and foster the best qualities in them. At Starof, it is our mission to help match individuals with organizations more efficiently. We turn the spotlight on candidates, and take into account the applicant’s personal attributes, and key criteria like aspirations and skills. We evaluate individuals on their strengths and match them to opportunities where they can have the most significant impact. Our hybrid assessment model combines the scale of computerized testing with the qualitative depth of human evaluation.",
+      "experience": "Freshers",
+      "salary": "3.6 LPA",
+      "skillsRequired": [
+        "Assistant Manager Recruitment will manage the internal hiring for Starof",
+        " Will interact with internal stakeholders and understand the requirements and help them to hire from various sources. ",
+        "All these requirements are for internal operations.",
+        "AM shall be able to understand the role and articulate it to candidates.",
+        "Should be good in sourcing techniques",
+        "Excellent Communication and Presentation skills"
+      ],
+      "id": 2
+    },
+    {
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQEQNPSCmYe6WA/company-logo_100_100/0/1612936972761?e=1634169600&v=beta&t=tErigXkrU5RyhIPXi_rrPooOUTutF0668Uxk6C-0AXc",
+      "title": "React JS Developer",
+      "name": "Starof",
+      "city": "Hyderabad",
+      "state": "Telangna",
+      "country": "India",
+      "workLocation": "Hyderabad",
+      "employmentType": "Full-Time",
+      "companyBrief": "Starof is established in 2019 with an objective to provide skilled manpower to various industry sectors like IT, ITES, Healthcare, BFSI and Retail. We use a hybrid model of assessment to assess the skills of candidates, thereby, optimizing the quality of candidates and reducing the time to hire for clients.At the workplace, the right combination of soft skills, character traits and career goals matter the post. We often hear recruiters asking the question, ‘is this candidate is a good fit?’ Professionals want to work on areas that excite, inspire and foster the best qualities in them. At Starof, it is our mission to help match individuals with organizations more efficiently. We turn the spotlight on candidates, and take into account the applicant’s personal attributes, and key criteria like aspirations and skills. We evaluate individuals on their strengths and match them to opportunities where they can have the most significant impact. Our hybrid assessment model combines the scale of computerized testing with the qualitative depth of human evaluation.",
+      "experience": "Freshers",
+      "salary": "3.6 LPA",
+      "skillsRequired": [
+        "Assistant Manager Recruitment will manage the internal hiring for Starof",
+        " Will interact with internal stakeholders and understand the requirements and help them to hire from various sources. ",
+        "All these requirements are for internal operations.",
+        "AM shall be able to understand the role and articulate it to candidates.",
+        "Should be good in sourcing techniques",
+        "Excellent Communication and Presentation skills"
+      ],
+      "id": 3
+    }
+   
+  ]
+}

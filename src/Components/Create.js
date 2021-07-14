@@ -9,6 +9,10 @@ function Create() {
   const [country, setCountry] = useState("");
   const [logo, setLogo] = useState("");
   const [workLocation, setWorkLocation] = useState("");
+  const [companyBrief, setCompanyBrief] = useState("");
+  const [skillsRequired, setSkillsRequired] = useState("");
+  const [employmentType, setEmploymentType] = useState("");
+  const [experience, setExperienceType] = useState("");
 
   const [isPending, setIsPending] = useState(false);
 
@@ -20,7 +24,7 @@ function Create() {
     // it prevents automatically refreshing of a page
     event.preventDefault();
     
-    const jobsAdded = { title, name, city, state, country,workLocation, logo };
+    const jobsAdded = { title, name, city, state, country,workLocation, logo, workLocation, companyBrief, skillsRequired,employmentType,experience };
       // console.log(blogsAdded);
 
     setIsPending(true);
@@ -43,7 +47,7 @@ function Create() {
   return (
     <div className="create">
       <h2>Post A Job</h2>
-      
+
       <form onSubmit={submitHandler}>
         <label>Job Title:</label>
         <input
@@ -54,7 +58,7 @@ function Create() {
         />
         <label>Company Name:</label>
         <input
-        type="text"
+          type="text"
           required
           value={name}
           onChange={(event) => setName(event.target.value)}
@@ -87,6 +91,33 @@ function Create() {
           value={workLocation}
           onChange={(event) => setWorkLocation(event.target.value)}
         />
+        <label>About Company:</label>
+        <textarea
+          required 
+          value={companyBrief}
+          onChange={(event) => setCompanyBrief(event.target.value)}
+        />
+        <label>Skills Required:</label>
+        <textarea
+          required 
+          value={skillsRequired}
+          onChange={(event) => setSkillsRequired(event.target.value)}
+        />
+        <label>Employment Type:</label>
+        <input
+        type="text"
+          required 
+          value={employmentType}
+          onChange={(event) => setEmploymentType(event.target.value)}
+        />
+        <label>Experience:</label>
+        <input
+        type="text"
+          required 
+          value={experience}
+          onChange={(event) => setExperienceType(event.target.value)}
+        />
+
         {/* <label>Company Logo:</label>
         <input
           type="image"
