@@ -46,7 +46,9 @@ function Create() {
 
   return (
     <div className="create">
+      <h1>Start hiring today.</h1>
       <h2>Post A Job</h2>
+      
 
       <form onSubmit={submitHandler}>
         <label>Job Title:</label>
@@ -101,7 +103,7 @@ function Create() {
         <textarea
           required 
           value={skillsRequired}
-          onChange={(event) => setSkillsRequired(event.target.value)}
+          onChange={(event) => setSkillsRequired(event.target.value.split(","))}
         />
         <label>Employment Type:</label>
         <input
@@ -118,13 +120,13 @@ function Create() {
           onChange={(event) => setExperienceType(event.target.value)}
         />
 
-        {/* <label>Company Logo:</label>
+        <label>Company Logo Link:</label>
         <input
-          type="image"
+          type="text"
           required
-          src={logo}
+          value={logo}
           onChange={(event) => setLogo(event.target.value)}
-        /> */}
+        />
 
         {!isPending && <button>Add Job</button>}
         {isPending && <button disabled>Adding Blog..</button>}

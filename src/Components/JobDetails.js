@@ -19,10 +19,11 @@ function JobDetails() {
       {jobs && (
         <>
           <section className="job-details-content">
-            <div className="job-details-preview">
+          <div className= "job-details-wrapper">
+          <div className="job-details-preview">
               <h2>{jobs.title}</h2>
               <p> {jobs.name}</p>
-              <p style={{ display: "inline" }}><IoLocationOutline />{jobs.workLocation} |</p>
+              <p className= "job-details-location" style={{ display: "inline" } }><IoLocationOutline />{jobs.workLocation} |</p>
               <p style={{ display: "inline" }}> <HiOutlinePencilAlt />
                 {" "}
                 experience: {jobs.experience} years
@@ -40,6 +41,8 @@ function JobDetails() {
               </div>
 
             </div>
+          </div>
+           
             
           </section>
 
@@ -59,7 +62,7 @@ function JobDetails() {
                 
               </ul>
             </div>
-            <div className="container-company">
+            <div className="container-company  company-employment">
               <h4>Employment Type:</h4>
               <p>{jobs.employmentType}</p>
             </div>
