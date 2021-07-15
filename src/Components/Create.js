@@ -137,7 +137,7 @@ function Create() {
         />
 
         {!isPending && <button>Add Job</button>}
-        {isPending && <button disabled>Adding Blog..</button>}
+        {isPending && <button disabled>Adding Job..</button>}
       </form>
     </div>
   );
