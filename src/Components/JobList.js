@@ -22,7 +22,7 @@ function JobList(props) {
             <p style={{display:"inline"}}> {item.city} |</p>
             <p style={{display:"inline"}}> {item.state} |</p>
             <p style={{display:"inline"}}> {item.country}</p>
-            <p> <IoLocationOutline  style={{verticalAlign:"baseline"}}/>{item.workLocation}</p>
+            <p> <IoLocationOutline  style={{ fontSize:"18px", verticalAlign:"bottom"}}/>{item.workLocation}</p>
            
           </div>
          </Link>

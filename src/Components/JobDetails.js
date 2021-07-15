@@ -23,12 +23,12 @@ function JobDetails() {
           <div className="job-details-preview">
               <h2>{jobs.title}</h2>
               <p> {jobs.name}</p>
-              <p className= "job-details-location" style={{ display: "inline" } }><IoLocationOutline />{jobs.workLocation} |</p>
-              <p style={{ display: "inline" }}> <HiOutlinePencilAlt />
+              <p style={{ display: "inline" } }><IoLocationOutline style={{  verticalAlign:"bottom"}} />{jobs.workLocation} |</p>
+              <p style={{ display: "inline" }}> <HiOutlinePencilAlt  style={{  verticalAlign:"bottom"}}/>
                 {" "}
-                experience: {jobs.experience} years
+                experience: {jobs.experience} 
               </p>
-              <p> <BiRupee />{jobs.salary}</p>
+              <p> <BiRupee  style={{  verticalAlign:"bottom"}} />{jobs.salary}</p>
             </div>
             <div className="wrapper">
             <div className="job-details-logo">
