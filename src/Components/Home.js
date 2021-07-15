@@ -15,4 +15,4 @@ function Home() {
 
 export default Home;
 
-// data:blogs means data here is used as a name blog
+// data:jobs means data here is used as a name job.

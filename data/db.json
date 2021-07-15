@@ -10,7 +10,7 @@
       "workLocation": "Remote",
       "employmentType": "Contract",
       "companyBrief": "SoluLab is started by a former VP of Goldman Sachs and principal iOS architect of Citrix. We work on cutting edge product development utilizing Blockchain, Machine Learning, Data Science and other emerging technologies. We are a family of 150+ strong developers with offices located in the USA, Canada, Australia and India. We have fully adopted remote only culture after COVID19 and this is a full time remote position. We sponsor USA or Canada visas for right developers and promote them to work from the client's office as per project demands.",
-      "experience": "2-3",
+      "experience": "2-3 year",
       "salary": "Salary best in class",
       "skillsRequired": [
         "Strong understanding of JavaScript, its quirks, and workarounds",
@@ -38,8 +38,8 @@
       "workLocation": "Bangalore",
       "employmentType": "Full-Time",
       "companyBrief": "Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading global information technology, consulting and business process services company. We harness the power of cognitive computing, hyper-automation, robotics, cloud, analytics and emerging technologies to help our clients adapt to the digital world and make them successful. A company recognized globally for its comprehensive portfolio of services, strong commitment to sustainability and good corporate citizenship, we have over 190,000 dedicated employees serving clients across six continents. Together, we discover ideas and connect the dots to build a better and a bold new future.",
-      "experience": "1",
-      "salary": "Salary best in class",
+      "experience": "1 year",
+      "salary": "6.0 LPA",
       "skillsRequired": [
         "Efficient in HTML5, CSS,JS, Javascript, ReactJS",
         " Able to design and develop the UI given a requirement.",
@@ -70,9 +70,139 @@
         "Excellent Communication and Presentation skills"
       ],
       "id": 2
+    },
+    {
+      "title": "Junior Software Engineer",
+      "name": "TAIGER",
+      "city": "Gurgaon",
+      "state": "Haryana",
+      "country": "India",
+      "workLocation": "Remote",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQGKU7tWMVrmXQ/company-logo_100_100/0/1625548504785?e=1634169600&v=beta&t=rWjoKFsD66GNqpX1HxKJ_Ie6vf7xy1aiOtkOo1QwT-M",
+      "companyBrief": "TAIGER is a visionary Artificial Intelligence (AI) company pioneering next-generation AI solutions with a dream to free the human intellect. We automate mission-critical and cognitive work by using Semantic and Natural Language Processing (NLP) technologies to process highly unstructured information with ease, accuracy and versatility. By optimising operational inefficiencies, we help enterprises drive business value and multiply ROI .\n\nOur products include an intelligent information extraction tool, a semantic search engine and a humanistic virtual assistant, tied together under a low-to-no code automation platform that abstracts the complexities of AI for line-of-business users. We have helped market leaders around the world cut costs and grow business volume, with deployments of over 50 use cases in eight industries. Our global clientele includes Banco Santander, Bank of America Merrill Lynch, BBVA, Citigroup, AIA Group, Manulife, CEMEX, Repsol, Sony DADC, Bank Otkritie Financial Corporation and Vodafone.\n\nOur technologies are revamping cognitive work within government institutions in Singapore, including the Attorney-General’s Chambers, Housing and Development Board, Infocomm Media Development Authority, the Ministry of Culture, Community and Youth, the Ministry of Home Affairs, National Arts Council, National Library Board, National Security Coordination Secretariat, Ngee Ann Polytechnic, Sport Singapore, SkillsFuture and the Singapore Tourism Board. Our solutions are also accredited by IMDA Singapore, which expedites the procurement process for Singapore government agencies.\n\nTAIGER headquartered in Singapore with global offices in Dubai, Madrid and Mexico City. TAIGER was recognised as an IDC innovator in AI in 2019, Gartner Cool Vendor in 2017 and has earned awards and recognition from Citi, Red Herring, and many others for its achievements in redefining the future of AI.",
+      "skillsRequired": [
+        "Bachelor's degree in Computer Science,Engineering,or other related disciplines",
+        "1 year of relevant experience in backend development (in Java)",
+        "Experience with TDD/BDD and agile methodologies.",
+        "Strong analytical thinking and exceptional attention to details.",
+        "Passionate in innovating",
+        " learning new skills and high quality software design.",
+        "Excellent written and oral communication skills in English.",
+        "Required to be on-site/ on-premise at times."
+      ],
+      "employmentType": "Full-Time",
+      "experience": "Freshers",
+      "salary": "9.0 LPA",
+      "id": 3
+    },
+    {
+      "title": "React Developer",
+      "name": " Black Piano Global Workforce",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "workLocation": "Remote",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQHzW4iSLq7jBA/company-logo_200_200/0/1586536858915?e=1634169600&v=beta&t=wEJI37uWyKx8ymvr-DqCnLI_VbMOubu55Cc64po4VA8",
+      "companyBrief": "Black Piano is a global management consultancy and delivery organisation, with offices in London UK and Pune India, and a network of partners based all over the world.\n\nWE SHAPE THE FUTURE...\nWe are a team of daring designers and courageous consultants. We help businesses get to the root of their most challenging problems, blending the creativity of design and the logic of management consulting. Check out www.blackpiano.co.uk to learn more.\n\nWE TURN BRIGHT IDEAS INTO REAL CHANGE...\nOur global delivery Studio sources specialist talent for our clients. We work across a range of business and delivery services, such as finance, HR, UX/UI and software development. Our mission is to provide the very best and brightest talent at a cost that makes you smile. Check out www.blackpiano.studio to learn more.",
+      "skillsRequired": [
+        "2+ years of experience in React.JS Development",
+        "Proficient with ES6+ syntax and features,Express.JS, Redux.",
+        "Should have exposure to REST API.",
+        "Implementation of security and data protection",
+        "Good understanding of server-side templating languages"
+      ],
+      "employmentType": "Full-Time",
+      "experience": "2+ years",
+      "salary": "3 LPA",
+      "id": 4
+    },
+    {
+      "title": "Mern Stack Developer Intern",
+      "name": "LearninTV",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "country": "India",
+      "workLocation": "New Delhi",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQFjhkyIq4W31Q/company-logo_200_200/0/1621098725848?e=1634169600&v=beta&t=PTA9p3mWpd0QFdYwNtRi4xf781AR8UPXpq0mO8qynKs",
+      "companyBrief": "A social learning platform where you can watch category wise high quality content in the form of short videos. We also have Podcasts for users who like to listen to things. For readers we have Tales where information or something about the life experience can be shared. With over 50+ categories you will always find something you love. Our platform aims to simplify and make learning fun for everyone. Advanced monetization options for creators by live streaming for exclusive content and paid one-to-one video call with their fans.",
+      "skillsRequired": [
+        "Good Knowledge in React.js, Node.js, Express.js",
+        " Should have a working knowledge of Redux and Sockets.io",
+        " Able to work on React w/ Hooks",
+        " Experienced in working with Databases like Mongodb",
+        " Sound Knowledge on how APIs work and understanding to work in integration",
+        "  Strong Knowledge of Relational Databases like Cassandra and able to work on MySQL and NoSQL\n\n"
+      ],
+      "employmentType": "Internship",
+      "experience": "Freshers",
+      "salary": "Unpaid",
+      "id": 5
+    },
+    {
+      "title": " Frontend Developer(React Js)",
+      "name": "ITILITE",
+      "city": " Bangalore Urban",
+      "state": "Karnataka",
+      "country": "India",
+      "workLocation": "Bangalore",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4D0BAQH1mtMrCB-kDQ/company-logo_200_200/0/1625032548711?e=1634169600&v=beta&t=m1_alpcc7yQXnormCoBup8uEolXBRjXsmROBSW9ATU8",
+      "companyBrief": "ITILITE (www.itilite.com) is a fast growing business travel and expense platform disrupting a $2.5 Trillion industry.\n\n \n\nAt ITILITE (lite-itineraries), we believe that companies deserve a travel solution that takes the pain out of work trips. Travelers should focus on their core work and not spend time on making travel bookings and then filing for expenses. Equally, companies should focus on their core areas, and lean on an automated, insightful platform for T&E.\n\n \n\nThere are very few companies across the globe which offer a unified travel and expense solution for the users; and we are uniquely positioned to do ground breaking work through this combination. Our travel platform offers a personalized experience for travelers and offers many industry-first features, e.g., gamification of travel where employees get rewarded when they make cost conscious choices. Our expense platform is a highly flexible, yet intuitive platform for employees which takes away the pain filing expenses and the anxiety in tracking expense reimbursement\n\n \n\nWe have terrific momentum, and have been recognised by Nasscom with their Emerge50 award. We raised Series B in April 2020, led by Greenoaks Capital, Vy Capital, and Matrix Partners. We need you to help us build the future of T&E.",
+      "skillsRequired": [
+        "2 to 5 years of Experience with React Js,HTML,Javascript and Ajax",
+        "Command an impressive portfolio of the latest UI technologies",
+        "Experience with web libraries such as JQuery.",
+        "Experience in working on web backend frameworks such as PHP, Node and Python is plus",
+        "Experience in desktop/mobile and browser development. An interest in user interface design."
+      ],
+      "employmentType": "Full-Time",
+      "experience": "2-3 years",
+      "salary": "10 LPA",
+      "id": 6
+    },
+    {
+      "title": "Junior Software Developer",
+      "name": "Ascent24 Technologies",
+      "city": "Coimbatore",
+      "state": "TamilNadu",
+      "country": "India",
+      "workLocation": "Coimbatore",
+      "logo": "https://media-exp1.licdn.com/dms/image/C4E0BAQGedZMFqkKfrw/company-logo_200_200/0/1623915166186?e=1634169600&v=beta&t=IDlv2fQRtkXv9SyjLV7Pz52QuPlC_NRjwCBqsLz4wWQ",
+      "companyBrief": "Ascent24 Technologies, a leader in Contact Center AI, transforms customer experiences and improves agent performance by helping top brands analyze 100% of customer interactions, extract actionable interaction and sentiment insights and streamline workflows. With Observe.AI , businesses transcribe every interaction with high accuracy and coach agents while gaining full visibility into their customer service operations. Observe.AI brings the power of agent assistance, automatic speech recognition, and Natural Language Processing (NLP) to modern contact centers and their frontline teams.\n",
+      "skillsRequired": [
+        "Bachelor’s Degree in Computer Science and equivalent with 3+ years of experience working on enterprise User Interface development",
+        "Should have a good understanding of Modern Javascript & Browser and performance concepts",
+        "Working knowledge of HTML CSS is required.",
+        "Should have an understanding of build tools i.e Webpack or Parcel.",
+        "Good to have: React Redux Typescript."
+      ],
+      "employmentType": "Contract",
+      "experience": "1 year",
+      "salary": "25k per month",
+      "id": 7
+    },
+    {
+      "title": "Frontend SDE2",
+      "name": "J2 Global",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "country": "India",
+      "workLocation": "Pune",
+      "logo": "https://media-exp1.licdn.com/dms/image/C560BAQHz-yB9fKBWLQ/company-logo_200_200/0/1598550487942?e=1634169600&v=beta&t=frNu5BLMmkh2XnblFv20vqQ0cyHHfpD3wAYPHI4cisQ",
+      "companyBrief": "J2 Global, Inc. (NASDAQ: JCOM) is a leading internet information and services company consisting of a portfolio of brands including IGN, Mashable, Humble Bundle, Speedtest, PCMag, RetailMeNot, Offers.com, Spiceworks, Ekahau, Everyday Health, BabyCenter and What To Expect in its Digital Media business and eFax, eVoice, iContact, Campaigner, Vipre, and IPVanish in its Cloud Services business. J2 reaches more than 240 million people per month across its brands. As of December 31, 2020, J2 had achieved 25 consecutive fiscal years of revenue growth. For more information about J2, please visit www.j2global.com.",
+      "skillsRequired": [
+        "3+ years of working experience with HTML5 Bootstrap and JavaScript.",
+        "Experience in developing responsive web pages or designs using HTML5 Bootstrap and media queries.",
+        "Knowledge of jQuery",
+        " JavaScript would be added advantage.",
+        "Experience of working with SCRUM Agile methodology.",
+        "Proficient understanding of code versioning tools GitHub",
+        "Excellent interpersonal written and oral communication skills.",
+        "BE / BS / MCA / MSc. (IT) Degree in one of the following subject areas: Computer Science | Business Administration | Information Technology or related field preferred."
+      ],
+      "employmentType": "Full-Time",
+      "experience": "3+ years",
+      "salary": "6LPA",
+      "id": 8
     }
-    
-    
-  
   ]
 }

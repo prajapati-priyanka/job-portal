@@ -13,6 +13,7 @@ function Create() {
   const [skillsRequired, setSkillsRequired] = useState("");
   const [employmentType, setEmploymentType] = useState("");
   const [experience, setExperienceType] = useState("");
+  const [salary, setSalary] = useState("");
 
   const [isPending, setIsPending] = useState(false);
 
@@ -24,12 +25,12 @@ function Create() {
     // it prevents automatically refreshing of a page
     event.preventDefault();
     
-    const jobsAdded = { title, name, city, state, country,workLocation, logo, workLocation, companyBrief, skillsRequired,employmentType,experience };
-      // console.log(blogsAdded);
+    const jobsAdded = { title, name, city, state, country,workLocation, logo, workLocation, companyBrief, skillsRequired,employmentType,experience, salary };
+      // console.log(jobsAdded);
 
     setIsPending(true);
 
-    // a POST request to add the blog to existing db.json
+    // a POST request to add the job to existing db.json
 
     fetch("http://localhost:8000/jobs/", {
       method: "POST",
@@ -37,7 +38,7 @@ function Create() {
       body: JSON.stringify(jobsAdded)
     }).then(() => {
     //   alert("For Online json-server Changes aren't persisted between calls.. Check in console for successful API call");
-    //   console.log("New Blog Added");
+    //   console.log("New Job Added");
       setIsPending(false);
       // history.go(-1);
       history.push("/");
@@ -118,6 +119,13 @@ function Create() {
           required 
           value={experience}
           onChange={(event) => setExperienceType(event.target.value)}
+        />
+        <label>Salary:</label>
+        <input
+        type="text"
+          required 
+          value={salary}
+          onChange={(event) => setSalary(event.target.value)}
         />
 
         <label>Company Logo Link:</label>
